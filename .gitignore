@@ -3,4 +3,4 @@ __pycache__/
 *.pyc
 .ipynb_checkpoints/
 paper_extract.txt
-*.pdf
+baghfalaki*.pdf
